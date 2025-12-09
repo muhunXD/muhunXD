@@ -1,4 +1,4 @@
-# 👋 Hi, I'm muhunXD
+# 👋 Hi, I'm Amontep
 
 🎓 Computer Engineering student @ **KMUTNB**  
 🔐 Aspiring **Network Security / SOC Engineer / Security Engineer**  
